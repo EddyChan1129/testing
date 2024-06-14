@@ -14,7 +14,7 @@
     "height": "5.0",
     "length": "1.8",
     "desc": "abc",
-    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/bgc.jpg",
+    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/image1.jpeg",
     "price": 19.2
   },
   "product3": {
@@ -32,7 +32,7 @@
     "height": "5.2",
     "length": "1.9",
     "desc": "ghi",
-    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/bgc.jpg",
+    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/image11.jpeg",
     "price": 12.4
   },
   "product5": {
@@ -41,7 +41,7 @@
     "height": "4.6",
     "length": "1.6",
     "desc": "jkl",
-    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/bgc.jpg",
+    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/image12.jpeg",
     "price": 18.5
   },
   "product6": {
@@ -59,7 +59,7 @@
     "height": "5.3",
     "length": "1.8",
     "desc": "pqr",
-    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/bgc.jpg",
+    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/image13.jpeg",
     "price": 17.6
   },
   "product8": {
@@ -68,7 +68,7 @@
     "height": "4.4",
     "length": "1.7",
     "desc": "stu",
-    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/bgc.jpg",
+    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/image14.jpeg",
     "price": 21.0
   },
   "product9": {
@@ -77,7 +77,7 @@
     "height": "4.9",
     "length": "1.6",
     "desc": "vwx",
-    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/bgc.jpg",
+    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/image15.jpeg",
     "price": 16.4
   },
   "product10": {
@@ -86,7 +86,7 @@
     "height": "5.1",
     "length": "1.9",
     "desc": "yz",
-    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/bgc.jpg",
+    "img_url": "https://raw.githubusercontent.com/EddyChan1129/testing/main/image/image16.jpeg",
     "price": 19.7
   }
 }
